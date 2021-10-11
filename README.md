@@ -36,6 +36,8 @@ The analysis of the election show that:
 
 ## Challenge Overview
 
-
+the code can easily be modified to suit other statistical cases
 
 ## Challenge Summary
+
+This challenge invites us to reflect on the power of python for information analysis
