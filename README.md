@@ -34,6 +34,9 @@ The analysis of the election show that:
      - Winning Vote Count: **272,892**
      - Winning Percentage: **73.8**
 
+
+![Graph](analysis/Module3.png)
+
 ## Challenge Overview
 
 the code can easily be modified to suit other statistical cases
